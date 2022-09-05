@@ -22,6 +22,6 @@ public class A {
         }
             System.out.println("Number of "+ch1+" = "+sayac);
     }
-}   Denemeeeeeee
+}   
 */
     }}
